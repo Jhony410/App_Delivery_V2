@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "478405566447",
+    "project_id": "delivery-app-v2-36c42",
+    "storage_bucket": "delivery-app-v2-36c42.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478405566447:android:a5a55fc4c336284918201a",
+        "android_client_info": {
+          "package_name": "com.example.app_delibery_administrador_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqlSvfPnWe7E7CsTaEeosSDX5j_yhPcyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478405566447:android:7a4b63dd483279a918201a",
+        "android_client_info": {
+          "package_name": "com.example.app_delibery_repartidor_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqlSvfPnWe7E7CsTaEeosSDX5j_yhPcyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478405566447:android:81d5a6f7fe397f2918201a",
+        "android_client_info": {
+          "package_name": "com.example.app_delibery_tienda_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqlSvfPnWe7E7CsTaEeosSDX5j_yhPcyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478405566447:android:f13ef57d9b7866d318201a",
+        "android_client_info": {
+          "package_name": "com.example.app_delibery_usuario_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqlSvfPnWe7E7CsTaEeosSDX5j_yhPcyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478405566447:android:43e589dcd93d9fce18201a",
+        "android_client_info": {
+          "package_name": "com.example.app_delivery_usuario_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqlSvfPnWe7E7CsTaEeosSDX5j_yhPcyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
